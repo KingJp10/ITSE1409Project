@@ -5,3 +5,14 @@
 2. Hyper link and button
 3. Ratings and summarys of every movies (6)
 """
+from tkinter import * 
+
+window = Tk()
+window.title = ("GMovies")
+
+label = tk.Label(window, text = "Hello World")
+
+
+
+
+window.mainloop()
